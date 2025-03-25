@@ -1,0 +1,5 @@
+# Installer avec pip :
+- psycopg2
+- pymongo
+- neo4j
+- ply
